@@ -49,3 +49,8 @@ $ vagrant init --box-version '> 0.1.5' hashicorp/bionic64
 Tecnologia de automação de um servidor juntamente com arduino como base de referencia....
 
 ```
+# MODELO DE INICIALIZAÇÃO DO SERVIDOR PROXMOX
+![GUI da Calculadora](https://www.storagereview.com/wp-content/uploads/2023/03/StorageReview-Proxmox-VE-7-4-1024x529.png)
+
+
+
